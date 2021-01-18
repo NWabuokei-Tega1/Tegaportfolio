@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+}
+
+.wrapper{
+    width: 100%;
+    height: 100vhs;
+    position: relative;
+}
+
+.profile-picture{
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+.background-image{
+    background-size: auto;
+    position: fixed;
+}
+
+.text-burnt{
+    font-family: Gilroy-Regular;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    letter-spacing: 0.3em;
+
+    color:  #FFAA29;
+    position: absolute;
+    left: 142px;
+    top: 260px;
+} 
+
+.text-blue{
+    font-family: Gilroy-Regular;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 160%;
+    color: #B7C1C8;
+    position: absolute;
+    left: 142px;
+    top: 304px;
+}
+
+.design a{
+    position: absolute;
+    left: 1300px;
+    top: 804px;
+
+    font-family: Gilroy-Regular;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: #B7C1C8;
+    text-decoration: none;
+}
