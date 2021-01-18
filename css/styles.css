@@ -17,6 +17,7 @@ body{
     top: 50px;
 }
 .background-image{
+    background-size: cover;
     max-width: 100%;
     height: auto;
     position: fixed;
