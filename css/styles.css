@@ -5,12 +5,6 @@ body{
     
 }
 
-.wrapper{
-    background-size: cover;
-    height: 100vh;
-    position: relative;
-}
-
 .profile-picture{
     position: absolute;
     left: 50px;
